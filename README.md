@@ -1,12 +1,12 @@
 # 2048
 2048 game includes settings menu to change board size, animations, confetti, and high score tracker.
 
-![2048 main screen](https://imgur.com/B0BferW)
+<img src="https://imgur.com/B0BferW.png" width="300" height="400">
 
-![settings](https://imgur.com/17PnmdN)
+<img src="https://imgur.com/17PnmdN.png" width="300" height="400">
 
-![new tile created](https://imgur.com/SzWArxA)
+<img src="https://imgur.com/SzWArxA.png" width="300" height="400">
 
-![game over](https://imgur.com/X93zOl7)
+<img src="https://imgur.com/X93zOl7.png" width="300" height="400">
 
-![winner](https://imgur.com/BMbkI7b)
+<img src="https://imgur.com/BMbkI7b.png" width="300" height="400">
